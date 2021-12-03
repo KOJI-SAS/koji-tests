@@ -1,0 +1,14 @@
+{
+  "openWeatherMap" : {
+    "apiKey" : "3126485dae86d01c51ace692bcab905f",
+    "apiUrl" : "http://api.openweathermap.org/data/2.5/weather",
+    "cityParameterName" : "q",
+    "apiKeyParameterName" : "APPID",
+    "iconUrlStart" : "http://openweathermap.org/img/wn/",
+    "iconUrlEnd2x" : "@2x.png",
+    "iconUrlEnd4x" : "@4x.png"
+  },
+  "jsonStorage" : {
+    "basePath" : "./src/data/"
+  }
+}

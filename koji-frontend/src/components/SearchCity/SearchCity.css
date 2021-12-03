@@ -1,0 +1,13 @@
+
+.typeAhead{
+    background-color: #282c34;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-margin{
+    margin: 1em;
+}
+

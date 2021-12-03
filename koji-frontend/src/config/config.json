@@ -1,0 +1,13 @@
+{
+  "geoApi" : {
+    "url" : "https://geo.api.gouv.fr/communes",
+    "searchCityParamName" : "nom"
+  },
+  "backend" : {
+    "url" : "http://localhost:3010",
+    "weather" : "/weather",
+    "getWeather" : "/getWeather",
+    "getWeatherHistory" : "/getWeatherHistory",
+    "deleteWeatherHistory" : "/deleteWeather"
+  }
+}
