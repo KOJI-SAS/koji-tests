@@ -32,7 +32,7 @@ You will probably want to change API Key. To do that you will have to access in 
 
 Just change the value <code>apiKey</code>
 
-![Default](img/apiKey.png)
+![Default](img/apiKey.PNG)
 
 ## Setting up Frontend
 This part is located in <code>koji-test-frontend/koji-frontend</code> 
@@ -49,11 +49,11 @@ Once the application is running you can do the following
 ### Search city
 You can type the name of the city you are looking for. Once you have type 3 characters, you will be able to select a city by clicking on its name.
 
-![Default](img/searchcity.png)
+![Default](img/searchcity.PNG)
 
 This action will trigger backend and in result show the current weather in the section named after.
 
-![Default](img/searchcityresult.png)
+![Default](img/searchcityresult.PNG)
 
 This action will also store store two cookies:
 <ul>
@@ -66,9 +66,9 @@ Those will be used the next time you get on the app and will preload data from y
 ### See current weather or history
 Once you have search a city it will be automatically followed. This will allow the server get every 10 minutes data for that city. Those data can be saw by clicking on the history tab.
 
-![Default](img/history.png)
+![Default](img/history.PNG)
 
 ### Stop following city
 To stop following a city you can click on the name after button. This action will result on deleting data history and cookies (except your id) and clear both panels.
 
-![Default](img/nohistory.png)
+![Default](img/nohistory.PNG)
