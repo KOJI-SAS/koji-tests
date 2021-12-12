@@ -1,0 +1,17 @@
+.followCity {
+  display: flex;
+  width: 100%;
+}
+
+.select {
+  flex-grow: 1;
+}
+
+.button {
+  height: 38px;
+  font-size: 20px;
+  cursor: pointer;
+  color: var(--DARK);
+  padding: 0px 20px;
+  margin-left: 20px;
+}
