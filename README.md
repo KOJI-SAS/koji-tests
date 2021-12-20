@@ -13,6 +13,15 @@ Effetuer un yarn ou un npm pour avoir les node_modules :
 ```bash
 yarn
 ```
+ou
+```bash
+npm install
+```
+
+Si vous n'avez pas expo d'installé sur votre machine executez cette commande
+```bash
+npm install --global expo-cli
+```
 
 Puis pour lancer le projet faire un :
 ```bash
